@@ -1,2 +1,4 @@
-# TAEV
-The code for "Multivariate Time Series Anomaly Detection Method Based on Mamba with Twin Auxiliary Exogenous Variables"
+# DIGD
+The code for "Multivariate Time Series Anomaly Detection Method for Industrial Systems with Datadifferentiated Channel Independence and Global-local Channel Dependence"
+
+Comming Soon.
